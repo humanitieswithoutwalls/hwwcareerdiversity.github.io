@@ -2,7 +2,7 @@
 title: Job Material Preparation
 layout: default
 nav_order: 1
-parent: Resource Index
+parent: Resources Index
 ---
 
 # Resume and CV Building, Values Exercises, and Material Preparation
