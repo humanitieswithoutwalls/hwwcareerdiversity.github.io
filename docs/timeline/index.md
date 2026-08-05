@@ -13,12 +13,17 @@ nav_order: 2
 
 <details>
   <summary>Starting Your PhD Program</summary>
-  Find mentors (not just your advisor). Look for researchers and scholars who are doing work in the areas you're interested in, both in and outside your department. 
+  * Find mentors (not just your advisor). 
+  * Look for researchers and scholars who are doing work in the areas you're interested in, both in and outside your department. 
 </details>
 
 <details>
   <summary>Coursework</summary>
-  Cultivate relationships, make summers meaningful, identify skills to develop; begin to shape dissertation project in collaboration with community
+  * Cultivate relationships 
+  * Make summers meaningful
+  * Identify skills to develop; 
+  * Begin to shape dissertation project in collaboration with community 
+  * Consider the logistics of planning your work (IRB, partnership agreement, etc.) 
 </details>
 
 <details>
