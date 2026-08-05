@@ -18,15 +18,15 @@ nav_order: 2
 
 <details>
   <summary>Coursework</summary>
-  Cultivate relationships, make summers meaningful, identify skills to develop
+  Cultivate relationships, make summers meaningful, identify skills to develop; begin to shape dissertation project in collaboration with community
 </details>
 
 <details>
   <summary>Exams and Proposal Defense</summary>
-  info goes here
+  involve community as much as possible/they have capacity for; can they attend proposal defense? be clear about your contributions to the scholarly landscape while foregrounding that community expertise/needs/goals are the driving force
 </details>
 
 <details>
   <summary>Dissertating and Final Stages</summary>
-  info goes here
+  carrying out the work with community partner; build timelines so that they are flexible/plan for slow work (consider how your funding and time to degree fit here) 
 </details>
