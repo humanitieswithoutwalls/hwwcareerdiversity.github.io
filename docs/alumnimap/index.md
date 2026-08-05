@@ -4,7 +4,9 @@ layout: default
 nav_order: 3
 ---
 
-Career Diversity and Summer Bridge fellows have accepted positions across the United States! Click on the map below to explore where alumni are working. 
+# Alumni Map
+
+Career Diversity and Summer Bridge fellows have accepted positions across the United States! The map below shows where alumni who either participated in the Career Diversity workshop or in the Summer Bridge program at the University of Illinois Urbana Champaign are working. Click through to explore.
 
 <div class="code-example" html="1">
 
