@@ -25,23 +25,26 @@ nav_order: 2
 <details>
   <summary>Coursework</summary>
   
-  * Cultivate relationships 
-  * Make summers meaningful
-  * Identify skills to develop; 
-  * Begin to shape dissertation project in collaboration with community 
-  * Consider the logistics of planning your work (IRB, partnership agreement, etc.) 
+  * Cultivate relationships (on and off campus)
+  * Make summers meaningful 
+  * Identify skills to develop (and look for workshops/trainings on them--skills like grant writing, data management, and program assessment are vital in many fields and industries; developing skillsets like these alongside your research skills will increase your marketability and foster connections with people already working in these spaces)
+  * Conduct informational interviews with people working outside academia
+  * Keep a running list of the types of jobs people have
+  * Look for alt-ac sessions at conferences
 </details>
 
 <details>
   <summary>Exams and Proposal Defense</summary>
   
-  * Involve community as much as possible/they have capacity for
-  * Be clear about your contributions to the scholarly landscape while foregrounding that community expertise/needs/goals are the driving force; make it clear that the work is being done _with_ the community, not _for_ them. This isn't a "giving back to the community" kind of endeavor. It's a partnership with local experts to meet a mutually agreed upon goal.
+  * idk just get through it 
 </details>
 
 <details>
   <summary>Dissertating and Final Stages</summary>
   
-  * Carrying out the work with community partner
-  * Build timelines so that they are flexible/plan for slow work (consider how your funding and time to degree fit here) 
+  * Continue building connections and sharing your research outside academia
+  * Attend and present at non-academic conferences
+  * Rely on the network you've built as you look, apply, and interview for jobs
+  * Consider both your scholarly contributions and the soft skills it takes to carry out research as you craft application materials (project planning and management, network building, verbal and written communication skills, balancing multiple ongoing commitments, creative problem solving, working with limited budget/resources etc.)
+  * Be able to frame your research for a variety of audiences based on what their entry point/interest would be
 </details>
