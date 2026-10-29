@@ -32,6 +32,7 @@ nav_order: 2
   * Keep a running list of the types of jobs people have
   * Look for alt-ac sessions at conferences
   * Take advantage of service-learning courses your institution offers
+  * Look for opportunities to use relevant language skills with community organizations
 </details>
 
 <details>
