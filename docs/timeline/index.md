@@ -31,6 +31,7 @@ nav_order: 2
   * Conduct informational interviews with people working outside academia
   * Keep a running list of the types of jobs people have
   * Look for alt-ac sessions at conferences
+  * Take advantage of service-learning courses your institution offers
 </details>
 
 <details>
